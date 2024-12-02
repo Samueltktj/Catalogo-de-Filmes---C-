@@ -1,0 +1,35 @@
+######################################################################################################
+Help Documentation
+######################################################################################################
+
+
+
+Series:
+######################################################################################################
+Incluir Registro: Inclui novo registro de serie com todos os dados pertinentes no banco de dados
+
+Recuperar Registro: Recupera registro de uma serie com todos os dados obtidos dentro do banco de dados
+
+Editar Registro: Edita um registro ja existente dentro do banco de dados
+
+Excluir Registro: Exclui um registro ja existente dentro do banco de dados
+######################################################################################################
+
+
+
+Relatorios:
+######################################################################################################
+Ordenados por Titulo
+: Exibe registros de series ordenados por titulo
+
+Ordenados por Canal
+: Exibe registros de series ordenados por canal
+
+Ordenados por Ano
+: Exibe registros de series ordenados por ano
+
+Ordenados por Nota
+: Exibe registros de series ordenados por nota
+######################################################################################################
+Creditos: Exibe os responsaveis pelo sistema de Catalogo de Series
+######################################################################################################
